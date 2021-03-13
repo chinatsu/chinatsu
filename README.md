@@ -4,7 +4,7 @@
 
 💻 i like python and rust, but i primarily work with kotlin and typescript
 
-🕹️ i play a lot of tetris, and i help run [harddrop](https://harddrop.com); one of the largest tetris communities in the world
+🕹️ i play a lot of tetris
 
 🎵 i'm quite interested in music, feel free to chat with me about that
 
