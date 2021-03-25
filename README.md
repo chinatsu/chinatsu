@@ -1,14 +1,14 @@
 ### hey
 
-💼 i work on stuff at [@navikt](https://github.com/navikt/), i also try to help out over at [@nais](https://github.com/nais/) when i can
+💼  i work on stuff at [@navikt](https://github.com/navikt/), i also try to help out over at [@nais](https://github.com/nais/) when i can
 
-💻 i like python and rust, but i primarily work with kotlin and typescript
+💻  i like python and rust, but i primarily work with kotlin and typescript
 
-🕹️ i play a lot of tetris
+🕹️  i play a lot of tetris
 
-🎵 i'm quite interested in music, feel free to chat with me about that
+🎵  i'm quite interested in music, feel free to chat with me about that
 
-📫 [hit me up](https://github.com/chinatsu/chinatsu/issues/new) (creates an issue in this repository)
+📫  [hit me up](https://github.com/chinatsu/chinatsu/issues/new) (creates an issue in this repository)
 
 
 
