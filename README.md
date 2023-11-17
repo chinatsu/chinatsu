@@ -1,7 +1,5 @@
 ### hey
 
-💼  i work on stuff at [@nais](https://github.com/nais/)
-
 🕹️  i play a lot of tetris
 
 🎵  i'm quite interested in music, feel free to chat with me about that
