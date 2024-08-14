@@ -8,8 +8,8 @@
 
 
 
-| [website](https://girlypop.no/) | [twitter](https://twitter.com/malpractitioner) | [soundcloud](https://soundcloud.com/uwaa) | [last.fm](https://www.last.fm/user/toast-rock) | [spotify](https://open.spotify.com/user/213p4w55e6upnsr73x6zbplya) |
-| - | - | - | - | - |
+| [website](https://girlypop.no/) | [twitter](https://twitter.com/malpractitioner) | [last.fm](https://www.last.fm/user/toast-rock) | [spotify](https://open.spotify.com/user/213p4w55e6upnsr73x6zbplya) |
+| - | - | - | - |
 
 
 check out my fizzbuzz
