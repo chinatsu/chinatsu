@@ -8,8 +8,8 @@
 
 
 
-| [website](https://girlypop.no/) | [bluesky](https://bsky.app/profile/girlypop.no) | [last.fm](https://www.last.fm/user/toast-rock) | [spotify](https://open.spotify.com/user/213p4w55e6upnsr73x6zbplya) |
-| - | - | - | - |
+| [bluesky](https://bsky.app/profile/girlypop.no) | [last.fm](https://www.last.fm/user/toast-rock) | [spotify](https://open.spotify.com/user/213p4w55e6upnsr73x6zbplya) |
+| - | - | - |
 
 
 check out my hello world
