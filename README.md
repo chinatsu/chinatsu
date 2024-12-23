@@ -8,8 +8,8 @@
 
 
 
-| [last.fm](https://www.last.fm/user/toast-rock) | [spotify](https://open.spotify.com/user/213p4w55e6upnsr73x6zbplya) |
-| - | - |
+| [last.fm](https://www.last.fm/user/toast-rock) |
+| - |
 
 
 check out my hello world
