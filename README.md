@@ -6,9 +6,10 @@
 
 📫  [hit me up](https://github.com/chinatsu/chinatsu/issues/new) (creates an issue in this repository)
 
+💻 find me on codeberg, i put some other code there https://codeberg.org/cutenice
 
 
-| [last.fm](https://www.last.fm/user/toast-rock) |
+| [last.fm](https://www.last.fm/user/toast-rock) | 
 | - |
 
 
